@@ -76,3 +76,10 @@ layout: default
 
 　　总之，在2025年去安圭拉，上网这件事已经变得非常简单了。无论是选择传统的物理卡追求极致本地化，还是拥抱eSIM享受科技便利，你都能轻松地与世界保持连接。现在，你可以放心地把注意力留给更重要的东西了——比如，眼前那片治愈一切的蒂芙尼蓝。
 　　<<<END_
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Anguilla SIM 卡购买与激活指南](https://faciylike.github.io/anguilla-sim-guides)
